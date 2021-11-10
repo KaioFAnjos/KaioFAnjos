@@ -5,5 +5,5 @@
 :books: Atualmente estudando Spring boot e React.
 
 ## Languages and Tools!
-[![Kaio GitHub stats](https://github-readme-stats.vercel.app/api?username=KaioFAnjos&show_icons=true&theme=radical&hide=contribuited, issues)
+[![Kaio GitHub stats](https://github-readme-stats.vercel.app/api?username=KaioFAnjos&show_icons=true&theme=radical&hide=contribuited)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaioFAnjos&layout=compact&theme=radical)](https://https://github.com/KaioFAnjos/github-readme-stats)
