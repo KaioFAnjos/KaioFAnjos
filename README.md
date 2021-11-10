@@ -6,4 +6,5 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KaioFAnjos&theme=blue-green)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=KaioFAnjos&show_icons=true)
+![Kaio GitHub stats](https://github-readme-stats.vercel.app/api?username=KaioFAnjos&show_icons=true&theme=radical)
+
