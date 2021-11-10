@@ -1,4 +1,4 @@
-<h1 align="center"> Olá a todos! Eu sou Kaio! </h1>
+<h1 align="center">:no_entry: Olá a todos! Eu sou Kaio! :no_entry:</h1>
 
 :computer: Desenvolvedor back-end!
 
