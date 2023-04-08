@@ -2,7 +2,7 @@
 
 ㅤㅤㅤㅤㅤㅤㅤ![Quote](https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://github.com/KaioFAnjos/KaioFAnjos/blob/main/quote.json&theme=radical&animation=grow_out_in&layout=churchill&font=default)
 
-:computer: Desenvolvedor back-end!
+:computer: Desenvolvedor Java!
 
 :house_with_garden: Brasil, São Paulo.
 
