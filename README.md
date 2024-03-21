@@ -1,12 +1,19 @@
-<h1 align="center">:no_entry: Olá a todos! Eu sou Kaio! :no_entry:</h1>
+# Olá, sou [Seu Nome]! 👋
 
-ㅤㅤㅤㅤㅤㅤㅤ![Quote](https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://github.com/KaioFAnjos/KaioFAnjos/blob/main/quote.json&theme=radical&animation=grow_out_in&layout=churchill&font=default)
+## Sobre Mim
 
-:computer: Desenvolvedor Java!
+- 👨‍💻 Eu sou um(a) Desenvolvedor Python.
+- 🎓 Graduado(a) em Ciência da Computação.
+- 💡 Interessado(a) em Engenharia de Dados.
+- 📫 Como me encontrar: kaio.fa@hotmail.com.
 
-:house_with_garden: Brasil, São Paulo.
+## Estatísticas do GitHub
 
-## Languages and Tools!
-<a href="https://github.com/KaioFAnjos/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KaioFAnjos&show_icons=true&theme=radical&hide_border=true" alt="Kaio's github stats" /></a><a href="https://github.com/KaioFAnjos/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioFAnjos&layout=compact&theme=radical&hide_border=true" /></a>
+![KaioFAnjos](https://github-readme-stats.vercel.app/api?username=seuUsuario&show_icons=true)
+<!-- Você pode personalizar seu GitHub Stats aqui: https://github.com/anuraghazra/github-readme-stats -->
 
+## Vamos Conectar!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SeuNome-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/kaiofanjos)
+<!-- Adicione outros ícones de mídia social conforme necessário -->
 
