@@ -1,4 +1,4 @@
-# Olá, sou [Seu Nome]! 👋
+# Olá, sou Kaio Felipe! 👋
 
 ## Sobre Mim
 
@@ -9,11 +9,11 @@
 
 ## Estatísticas do GitHub
 
-![KaioFAnjos](https://github-readme-stats.vercel.app/api?username=seuUsuario&show_icons=true)
+![KaioFAnjos](https://github-readme-stats.vercel.app/api?username=KaioFAnjos&show_icons=true)
 <!-- Você pode personalizar seu GitHub Stats aqui: https://github.com/anuraghazra/github-readme-stats -->
 
 ## Vamos Conectar!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SeuNome-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/kaiofanjos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaio-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/kaiofanjos)
 <!-- Adicione outros ícones de mídia social conforme necessário -->
 
